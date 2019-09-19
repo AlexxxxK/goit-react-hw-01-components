@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-hw-01-components-transaction-history/static/css/main.d8e6323b.chunk.css",
-    "main.js": "/react-hw-01-components-transaction-history/static/js/main.6f9384ce.chunk.js",
-    "main.js.map": "/react-hw-01-components-transaction-history/static/js/main.6f9384ce.chunk.js.map",
-    "runtime~main.js": "/react-hw-01-components-transaction-history/static/js/runtime~main.c2c18fcc.js",
-    "runtime~main.js.map": "/react-hw-01-components-transaction-history/static/js/runtime~main.c2c18fcc.js.map",
-    "static/js/2.120ae75f.chunk.js": "/react-hw-01-components-transaction-history/static/js/2.120ae75f.chunk.js",
-    "static/js/2.120ae75f.chunk.js.map": "/react-hw-01-components-transaction-history/static/js/2.120ae75f.chunk.js.map",
-    "index.html": "/react-hw-01-components-transaction-history/index.html",
-    "precache-manifest.b1ab1528b86f56582b91632d2a91f81f.js": "/react-hw-01-components-transaction-history/precache-manifest.b1ab1528b86f56582b91632d2a91f81f.js",
-    "service-worker.js": "/react-hw-01-components-transaction-history/service-worker.js",
-    "static/css/main.d8e6323b.chunk.css.map": "/react-hw-01-components-transaction-history/static/css/main.d8e6323b.chunk.css.map"
+    "main.css": "/react-hw-01-components/static/css/main.fbe10493.chunk.css",
+    "main.js": "/react-hw-01-components/static/js/main.13a52485.chunk.js",
+    "main.js.map": "/react-hw-01-components/static/js/main.13a52485.chunk.js.map",
+    "runtime~main.js": "/react-hw-01-components/static/js/runtime~main.60677dab.js",
+    "runtime~main.js.map": "/react-hw-01-components/static/js/runtime~main.60677dab.js.map",
+    "static/js/2.120ae75f.chunk.js": "/react-hw-01-components/static/js/2.120ae75f.chunk.js",
+    "static/js/2.120ae75f.chunk.js.map": "/react-hw-01-components/static/js/2.120ae75f.chunk.js.map",
+    "index.html": "/react-hw-01-components/index.html",
+    "precache-manifest.dd243b77369303d9d8f3bfa10412ca70.js": "/react-hw-01-components/precache-manifest.dd243b77369303d9d8f3bfa10412ca70.js",
+    "service-worker.js": "/react-hw-01-components/service-worker.js",
+    "static/css/main.fbe10493.chunk.css.map": "/react-hw-01-components/static/css/main.fbe10493.chunk.css.map"
   }
 }
