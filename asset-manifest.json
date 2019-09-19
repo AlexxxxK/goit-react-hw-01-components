@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-hw-01-components/static/css/main.fbe10493.chunk.css",
-    "main.js": "/react-hw-01-components/static/js/main.13a52485.chunk.js",
-    "main.js.map": "/react-hw-01-components/static/js/main.13a52485.chunk.js.map",
-    "runtime~main.js": "/react-hw-01-components/static/js/runtime~main.60677dab.js",
-    "runtime~main.js.map": "/react-hw-01-components/static/js/runtime~main.60677dab.js.map",
-    "static/js/2.120ae75f.chunk.js": "/react-hw-01-components/static/js/2.120ae75f.chunk.js",
-    "static/js/2.120ae75f.chunk.js.map": "/react-hw-01-components/static/js/2.120ae75f.chunk.js.map",
-    "index.html": "/react-hw-01-components/index.html",
-    "precache-manifest.dd243b77369303d9d8f3bfa10412ca70.js": "/react-hw-01-components/precache-manifest.dd243b77369303d9d8f3bfa10412ca70.js",
-    "service-worker.js": "/react-hw-01-components/service-worker.js",
-    "static/css/main.fbe10493.chunk.css.map": "/react-hw-01-components/static/css/main.fbe10493.chunk.css.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.fbe10493.chunk.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.13a52485.chunk.js",
+    "main.js.map": "/goit-react-hw-01-components/static/js/main.13a52485.chunk.js.map",
+    "runtime~main.js": "/goit-react-hw-01-components/static/js/runtime~main.1e8b9536.js",
+    "runtime~main.js.map": "/goit-react-hw-01-components/static/js/runtime~main.1e8b9536.js.map",
+    "static/js/2.120ae75f.chunk.js": "/goit-react-hw-01-components/static/js/2.120ae75f.chunk.js",
+    "static/js/2.120ae75f.chunk.js.map": "/goit-react-hw-01-components/static/js/2.120ae75f.chunk.js.map",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "precache-manifest.41fa00cc3fa9e0a149ab7f3b54f5e502.js": "/goit-react-hw-01-components/precache-manifest.41fa00cc3fa9e0a149ab7f3b54f5e502.js",
+    "service-worker.js": "/goit-react-hw-01-components/service-worker.js",
+    "static/css/main.fbe10493.chunk.css.map": "/goit-react-hw-01-components/static/css/main.fbe10493.chunk.css.map"
   }
 }
