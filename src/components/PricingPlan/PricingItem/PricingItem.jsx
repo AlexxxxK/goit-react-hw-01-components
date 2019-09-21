@@ -1,29 +1,21 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { inlineColorStyle } from "../helpers/helpers";
+import { StyledIcon, StyledBtn, StyledHeadline } from "./StyledPricingItem";
 import styles from "./PricingItem.module.css";
 
 const PricingItem = ({ label, icon, capacity, price, description }) => {
   return (
     <div className="pricing-item">
-      <i
-        className={styles.icon}
-        style={{
-          backgroundImage: `url(${icon})`,
-        }}
-      />
-      <h2 className={styles.label} style={{ color: inlineColorStyle[label] }}>
+      <StyledIcon className={styles.icon} icon={icon} />
+      <StyledHeadline className={styles.label} label={label}>
         {label}
-      </h2>
+      </StyledHeadline>
       <p className={styles.capacity}>{capacity} storage</p>
       <p className={styles.description}>{description}</p>
       <p className={styles.price}>${price}/MO</p>
-      <button
-        className={styles.btn}
-        style={{ background: inlineColorStyle[label] }}
-        type="button">
+      <StyledBtn label={label} className={styles.btn} type="button">
         Get Started
-      </button>
+      </StyledBtn>
     </div>
   );
 };
