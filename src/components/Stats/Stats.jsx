@@ -1,6 +1,5 @@
 import React from "react";
 import PropTypes from "prop-types";
-// import { backgroundColorGenerator } from "../../helpers/helpers";
 import StyledItem from "./StyledStas";
 import styles from "./Stats.module.css";
 
@@ -13,9 +12,6 @@ const Stats = ({ title, stats }) => {
           <StyledItem
             className={styles.item}
             key={item.id}
-            // style={{
-            //   background: `#${backgroundColorGenerator()}`,
-            // }}
           >
             <span className={styles.label}>{item.label}</span>
             <span className={styles.percentage}>{item.percentage}%</span>
